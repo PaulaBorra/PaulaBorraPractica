@@ -30,10 +30,16 @@ random_tensor = tensor_calc.custom_tensor_random(2, 2)
 
 Proceed to use the various operations provided, such as:
 (You can use any of these operations with the tensor that you want, but the examples provided will be with tensor1 and tensor2)
+
     - SUM: added_tensor = tensor_calc.custom_tensor_sum(tensor1, tensor2)
+    
     - PRODUCT: multiplied_tensor = tensor_calc.custom_tensor_product(tensor1, tensor2)
+    
     - TRANSPOSE: transposed_tensor1 = tensor_calc.custom_tensor_transpose(tensor1)
+    
     - MEAN: mean_tensor1 = tensor_calc.custom_tensor_mean(tensor1)
+    
     - STD: std_tensor1 = tensor_calc.custom_tensor_std(tensor1)
+    
     - SUBTRACT: subtract_tensor = tensor_calc.custom_tensor_subtract(tensor1, tensor2)
     
