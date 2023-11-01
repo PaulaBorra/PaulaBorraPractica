@@ -1,5 +1,7 @@
 from module_structure.practica_torch import *
 
+__all__ = practica_torch.__all__
+
 MAJOR = 1
 MINOR = 0
 PATCH = 0
